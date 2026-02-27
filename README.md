@@ -1,3 +1,3 @@
 ## My page
-- 🔭 Currently studying Applied Data Science at Universiteit Utrecht
-
+- 🔭 studying Applied Data Science at Universiteit Utrecht
+- still figuring git out
